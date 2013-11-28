@@ -27,68 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PaymentsControllerTest.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules/Payments/tests/controllers/PaymentsControllerTest.php">
+      <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="5" selection-start="739" selection-end="739" vertical-scroll-proportion="-18.958334" vertical-offset="115" max-vertical-offset="705">
-              <folding>
-                <element signature="e#137#154#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PaymentsRouteTest.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/modules/Payments/tests/routes/PaymentsRouteTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="446" selection-end="446" vertical-scroll-proportion="0.6101695" vertical-offset="0" max-vertical-offset="590">
-              <folding>
-                <element signature="e#132#140#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phpunit.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpunit.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="12" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestCase.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/tests/TestCase.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="405">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExampleTest.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/tests/ExampleTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EloquentPaymentModel.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules/Payments/models/EloquentPaymentModel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="34" selection-start="209" selection-end="209" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EloquentPaymentRepository.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules/Payments/repositories/EloquentPaymentRepository.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="117" selection-end="129" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="270">
+            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="637">
               <folding />
             </state>
           </provider>
@@ -104,8 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/tests/TestCase.php" />
-        <option value="$PROJECT_DIR$/bootstrap/start.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/modules/Payments/repositories/PaymentRepository.php" />
         <option value="$PROJECT_DIR$/app/start/global.php" />
@@ -120,6 +60,8 @@
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/modules/Payments/tests/controllers/PaymentsControllerTest.php" />
         <option value="$PROJECT_DIR$/app/modules/Payments/tests/routes/PaymentsRouteTest.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -623,20 +565,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/modules/Payments/routes/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="51" selection-start="109" selection-end="109" vertical-scroll-proportion="0.07340946" vertical-offset="0" max-vertical-offset="613">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/start/global.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="33" selection-start="2621" selection-end="2621" vertical-scroll-proportion="-22.416666" vertical-offset="572" max-vertical-offset="1200">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/modules/Payments/bindings/bindings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="110" selection-start="117" selection-end="117" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
@@ -665,41 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/Payments/models/EloquentPaymentModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="209" selection-end="209" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/Payments/repositories/EloquentPaymentRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="117" selection-end="129" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phpunit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/TestCase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tests/ExampleTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="7" selection-start="14" selection-end="14" vertical-scroll-proportion="0.050847456" vertical-offset="0" max-vertical-offset="590">
@@ -723,12 +616,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/modules/Payments/tests/controllers/PaymentsControllerTest.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="5" selection-start="739" selection-end="739" vertical-scroll-proportion="-18.958334" vertical-offset="115" max-vertical-offset="705">
-          <folding>
-            <element signature="e#137#154#0" expanded="true" />
-          </folding>
+        <state line="2" column="13" selection-start="45" selection-end="45" vertical-scroll-proportion="0.048859935" vertical-offset="0" max-vertical-offset="614">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -738,6 +629,57 @@
           <folding>
             <element signature="e#132#140#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/Payments/tests/controllers/PaymentsControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="5" selection-start="739" selection-end="739" vertical-scroll-proportion="0.7711864" vertical-offset="115" max-vertical-offset="705">
+          <folding>
+            <element signature="e#137#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="481" selection-end="481" vertical-scroll-proportion="0.32967034" vertical-offset="0" max-vertical-offset="637">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/Payments/models/EloquentPaymentModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="34" selection-start="209" selection-end="209" vertical-scroll-proportion="0.19575857" vertical-offset="0" max-vertical-offset="613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/modules/Payments/repositories/EloquentPaymentRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="31" selection-start="117" selection-end="129" vertical-scroll-proportion="0.07340946" vertical-offset="0" max-vertical-offset="613">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="637">
+          <folding />
         </state>
       </provider>
     </entry>
