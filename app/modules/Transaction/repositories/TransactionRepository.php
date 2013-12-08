@@ -6,10 +6,10 @@
  * Time: 10:55
  */
 
-namespace Payments\Repositories;
+namespace Transaction\Repositories;
 
 
-interface PaymentRepository {
+interface TransactionRepository {
 
     public function getAll();
 

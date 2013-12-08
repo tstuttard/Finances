@@ -6,12 +6,12 @@
  * Time: 08:47
  */
 
-namespace Payments\Tests\Controllers;
+namespace Transaction\Tests\Controllers;
 
-use Mockery as M;
+use Mockery as m;
 use URL;
 
-class PaymentsControllerTest extends \Tests\TestCase {
+class TransactionControllerTest extends \Tests\TestCase {
 
     public function setUp()
     {
@@ -20,12 +20,12 @@ class PaymentsControllerTest extends \Tests\TestCase {
 
     public function tearDown()
     {
-        M::close();
+        m::close();
     }
 
     public function mock($class)
     {
-        $mock = M::mock($class);
+        $mock = m::mock($class);
 
         $this->app->instance($class, $mock);
 
@@ -34,9 +34,9 @@ class PaymentsControllerTest extends \Tests\TestCase {
 
     public function testGetIndex()
     {
-        $this->mock('Payments\Repositories\PaymentRepository')->shouldReceive('getAll')->once();
+        $this->mock('Transaction\Repositories\PaymentRepository')->shouldReceive('getAll')->once();
 
-        $this->call('GET', URL::route('payments.index'));
+        $this->call('GET', URL::route('transactions.index'));
 
         $this->assertResponseOk();
 

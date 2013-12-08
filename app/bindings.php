@@ -1,3 +1,3 @@
 <?php
 
-require __DIR__."/modules/Payments/bindings/bindings.php";
+require __DIR__ . "/modules/Transaction/bindings/bindings.php";

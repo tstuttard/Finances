@@ -6,12 +6,13 @@
  * Time: 08:57
  */
 
-namespace Payments\Tests\Routes;
+namespace Transaction\Tests\Routes;
 
 use URL;
 use Mockery as M;
 
-class PaymentsRouteTest extends \Tests\TestCase {
+class TransactionRouteTest extends \Tests\TestCase
+{
 
     public function setUp()
     {
@@ -25,7 +26,7 @@ class PaymentsRouteTest extends \Tests\TestCase {
 
     public function testGetIndex()
     {
-        $this->call('GET', URL::route('payments.index'));
+        $this->call('GET', URL::route('transactions.index'));
     }
 
 }
